@@ -1,0 +1,28 @@
+{
+	"Header": {
+		"TranTeller": "2222",
+		"CurrentPageNum": "",
+		"TranDate": "2222",
+		"PageStart": "",
+		"AuthFlag": "2",
+		"TranSeq": "2222",
+		"BranchId": "2222",
+		"GlobalSeq": "123456789",
+		"RetMsg": "交易成功",
+		"ServiceCode": "2222",
+		"TotalNum": "",
+		"RetStatus": "S",
+		"RetCode": "000000",
+		"ConsumerId": "2222",
+		"PageTotalNum": "",
+		"SourceSysId": "2222",
+		"TranTime": "101713441",
+		"PageEnd": ""
+	},
+	"ways": {
+		"description": "密码验证",
+		"rule": "PWD",
+		"waysId": "PWD"
+	},
+	"TotalNum": ""
+}

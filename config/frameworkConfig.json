@@ -1,0 +1,11 @@
+{
+  "cipUrl": "./CIP/",
+  "isMenu": false,
+  "isDebugger": true,
+  "validRoute": "",
+  "pckType": 1,
+  "hostConfig": {
+    "PRODUCT_HOST": "product_DEV",
+    "BASICS_HOST": "basics_DEV"
+  }
+}

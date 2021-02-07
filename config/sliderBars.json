@@ -1,0 +1,49 @@
+{
+    "Service": {
+        "Body": {
+            "data": [
+                {
+                    "id": "SID0000000001",
+                    "label": "代办任务",
+                    "code": "SID0000000001",
+                    "icon": "",
+                    "routerLink": "/pages/product/product-catalog/business-directory",
+                    "link": [
+                        "/pages/product/product-catalog/business-directory"
+                    ]
+                },
+                {
+                    "id": "SID0000000002",
+                    "label": "已办任务",
+                    "code": "SID0000000002",
+                    "icon": "",
+                    "routerLink": "",
+                    "link": [
+                        ""
+                    ]
+                }
+            ],
+            "view": []
+        },
+        "Header": {
+            "AuthFlag": null,
+            "BranchId": "820000",
+            "ConsumerId": "test",
+            "CurrentPageNum": null,
+            "GlobalSeq": "",
+            "PageEnd": null,
+            "PageStart": null,
+            "PageTotalNum": null,
+            "RetCode": "000000",
+            "RetMsg": "success",
+            "RetStatus": "S",
+            "ServiceCode": "test",
+            "SourceSysId": "111",
+            "TotalNum": null,
+            "TranDate": "20190730",
+            "TranSeq": "test",
+            "TranTeller": "100001",
+            "TranTime": "103907147"
+        }
+    }
+}
